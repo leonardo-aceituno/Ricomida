@@ -1,0 +1,35 @@
+/* font-family: 'Lobster', cursive;
+font-family: 'Roboto', sans-serif; */
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+}
+
+.lobster {
+    font-family: 'Lobster', cursive;
+    font-size: 1.7rem;
+}
+
+footer .lobster{
+    font-size: 2.5rem;
+}
+
+img {
+    width: 100%;
+}
+
+.subrayado {
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    border-bottom: 2px solid #212529;
+    padding-bottom: 5px;
+}
+
+ul, ol, li{
+    font-size: 14px;
+}
+
+
