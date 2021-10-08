@@ -33,3 +33,10 @@ ul, ol, li{
 }
 
 
+
+
+hr {
+    height: 10px;
+    color: #2BA1AF;
+    border-bottom: 3px solid #2BA1AF;
+}
